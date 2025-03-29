@@ -16,8 +16,8 @@
 - [ ] **1/8	teaspoon**	dried red pepper flakes
 - [ ] **2	whole**	bay leaves
 - [ ] **1/2	teaspoon**	Kosher salt, plus more to taste
-- [ ] **27	grams**	chicken bouillon
-- [ ] **1,000	grams**	water
+- [ ] **30	grams**	chicken bouillon
+- [ ] **1,200	grams**	water
 - [ ] **1/2	bunch**	kale leaves *(about 1 qt loosely packed)*
 - [ ] Freshly ground black pepper
 - [ ] Sherry vinegar
