@@ -1,3 +1,3 @@
 # Shokupan
 
---8<-- "shokupan.htm"
+--8<-- "docs/baking/shokupan.htm"
