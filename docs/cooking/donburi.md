@@ -36,7 +36,7 @@
 4. Cover and cook until eggs are as set as you'd like them, about 1 minute for very soft or 2 minutes for medium. Slide broth, egg, and meat out on top of a bowl of rice. Sprinkle with scallions and serve.  
 
 ## ✏️ notes
-* 
+* Oyako nabe holds 120 grams of broth for simmering.
 
 ## 🔗 sources
 https://seriouseats.com/katsudon-japanese-leftover-cutlet-rice-egg-bowl-recipe  

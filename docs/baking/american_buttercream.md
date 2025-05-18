@@ -21,8 +21,11 @@
 4. Add extracts or gel colors as desired. Switch to paddle attachment and mix on low until incorporated. Use buttercream right away or transfer to a large zipper-lock bag, press out air, and seal. The buttercream can be refrigerated for up to 2 weeks or frozen for up to several months. Bring buttercream to approximately 72°F and re-whip before use.
 
 ## ✏️ notes
-* 
+* Use short bursts of microwave heating or using double-boiler (e.g., 3-second intervals) to gradually achieve desired color intensity. Adjust as needed and stir after each burst. May need to freeze/chill briefly during this process.
 
 ## 🔗 sources
 https://sugarologie.com/recipes/american-dreamy-buttercream  
 https://seriouseats.com/american-buttercream-recipe  
+https://youtube.com/watch?v=5w4cA24difo  
+https://youtube.com/watch?v=LMVSrOen54s  
+https://seriouseats.com/how-to-fix-a-broken-swiss-meringue-buttercream  
