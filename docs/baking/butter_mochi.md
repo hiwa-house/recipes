@@ -6,43 +6,51 @@
 * 12 servings  
 
 ## 📋 ingredients
-- [ ] **454	grams**	Mochiko rice flour *(1 box)*
-- [ ] **396	grams**	granulated sugar *(2 c)*
-- [ ] **115	grams**	unsalted butter, about 65°F *(8 tbsp)*
-- [ ] **30	grams**	refined coconut oil *(2 tbsp)*
-- [ ] **1 teaspoon**	baking powder
-- [ ] **1/2 teaspoon**	kosher salt
-- [ ] **200	grams**	eggs, about 65°F *(4 large)*
-- [ ] **354	grams**	evaporated milk *(1 can)*
-- [ ] **403	grams**	coconut milk *(1 can)*
-- [ ] **2	teaspoons**	vanilla extract
 
-- [ ] ***Optional Flavors:***  
-	* Black Sesame
-		- [ ] **40	grams**	black sesame powder *(1 1/2 oz)*
-	* Chocolate
-		- [ ] **25	grams**	Dutch-process cocoa powder *(1/3 c)*
-	* Pumpkin
-		- [ ] **212	grams**	canned pumpkin *(1/2 can)*
-		- [ ] **1 teaspoon**	ground ginger
-		- [ ] **1 teaspoon**	ground cinnamon
-		- [ ] **1/4 teaspoon**	freshly grated nutmeg
-		- [ ] **1/8 teaspoon**	ground cloves
+**BASE**  
+
+- [ ] **454	grams**	Mochiko rice flour *(1 box)*
+- [ ] **403	grams**	coconut milk *(1 can)*
+- [ ] **354	grams**	evaporated milk *(1 can)*
+- [ ] **400	grams**	granulated sugar *(2 c)*
+- [ ] **115	grams**	unsalted butter, melted *(8 tbsp)*
+- [ ] **150	grams**	eggs, room temperature *(3 large)*
+- [ ] **1 tablespoon**	baking powder
+- [ ] **1 teaspoon**	kosher salt
+- [ ] **10	grams**	vanilla extract *(2 tsp)*
+
+**UBE**
+
+- [ ] **SUBTRACT**	evaporated milk *(1 can)*
+- [ ] **340	grams**	ube halaya *(12 oz jar)*
+- [ ] **1/2	teaspoon**	ube extract
+
+**PUMPKIN**
+
+- [ ] **425	grams**	canned pumpkin *(1 can)*
+- [ ] **1 teaspoon**	ground ginger
+- [ ] **1 teaspoon**	ground cinnamon
+- [ ] **1/4 teaspoon**	freshly grated nutmeg
+- [ ] **1/8 teaspoon**	ground cloves
 
 ## 🔪 steps
-1.  Adjust oven rack to lower-middle position and preheat to 350°F. Lightly grease a 9x13-inch pan. In the bowl of a stand mixer fitted with a paddle attachment, combine sugar, butter, coconut oil, baking powder, and salt. Mix on low to combine, then increase to medium and cream until fluffy and light, about 5 minutes. About halfway through, pause to scrape bowl and beater with a flexible spatula.
-2.  With mixer still running, add eggs one at a time, letting each fully incorporate before adding the next. (If using spices, whisk with rice flour.) Reduce speed to low and sprinkle in 1/3 of rice flour, then add 1/3 of liquid ingredients. Repeat with remaining flour and liquid ingredients, working in thirds as before. Finally, add any flavor ingredients, if using.
-3.  Scrape bowl and beater with a flexible spatula and resume mixing on medium speed until everything is well combined. The batter should look creamy and thick, registering around 65°F on a digital thermometer. *(Significant deviation indicates ingredients were too warm or too cold, which can lead to textural problems.)*
-4.  Scrape into pan, and bake until edges turn golden brown, about 55 minutes or to an internal temperature of 200°F. Cool mochi for completely, then slice and serve.
+1. Preheat the oven to 350°F and place a rack in the center of the oven. Generously butter a 9X13 inch baking pan. Set aside.
+2. In the bowl of a stand mixer, combine the mochiko, coconut milk, evaporated milk, sugar, melted butter, eggs, baking powder, salt and vanilla extract. If making one of the flavor variations, also add those ingredients now.
+3. With the whisk attachment, whip ingredients together until smooth. Let the batter sit for about 15 minutes at room temperature for the rice flour to full absorb the liquid.
+4. Pour into the prepared pan and bake for 55 minutes, rotating the pan midway through the baking time, until the top of the cake is golden brown and the mochi feels firm when you press it in the middle, or an internal temperature of 200°F. Remove from the oven and let cool in the pan on a wire rack.
+5. Cut the mochi into small pieces about 2X2 inches square, and use a small spatula to remove them from the pan. Place each piece in a small muffin paper or on a piece of parchment or waxed paper.
 
 ## ✏️ notes
-* Test bake at 375F for 45 minutes instead.
-* Freezes very well.
+* Test bake at 375F for 45 minutes?
+* Butter mochi can be stored in an airtight container at room temperature for up to 4 days.
+* You can also freeze them; put them in a 325° F oven for about 20 minutes to revive and get a little chewy and caramelized on top.
 
 ## 🔗 sources
 https://hawaiianelectric.com/recipes/find-a-recipe/butter-mochi  
 https://leaandjay.wordpress.com/2022/03/07/butter-mochi/  
-https://www.thekitchn.com/hawaiian-butter-mochi-recipe-23147549  
+https://www.mochimommy.com/hawaiian-butter-mochi/ 
+https://www.mochimommy.com/ube-butter-mochi/   
+https://www.mochimommy.com/pumpkin-mochi-recipe/  
+https://www.mochimommy.com/black-sesame-butter-mochi/  
+https://www.mochimommy.com/chocolate-butter-mochi/  
 https://thefreshloaf.com/node/30110/many-types-mochi-cakes-how-it-has-take-whole-new-life-my-kitchen  
-https://seriouseats.com/sour-cream-pound-cake-recipe  
-https://onohawaiianrecipes.com/recipes/butter-mochi/  

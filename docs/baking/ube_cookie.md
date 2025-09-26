@@ -2,7 +2,7 @@
 <img src="https://www.kawalingpinoy.com/wp-content/uploads/2018/05/ube-crinkle-cookies-2-683x1024.jpg" alt="ube" width="320"/>  
 
 ## ℹ️ info
-* About XX minutes  
+* About 60 minutes  
 * 48 cookies *(2 inch)*  
 
 ## 📋 ingredients

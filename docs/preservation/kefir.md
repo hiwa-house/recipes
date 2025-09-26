@@ -12,15 +12,15 @@
 ## 🔪 steps
 1. Fill quart canning jar with milk to shoulder, leaving about one inch of headroom.
 2. Heat milk to 185°F in the microwave, uncovered. *(9 minutes and 30 seconds at 70% power in my microwave.)*
-3. Cover jar loosely with plastic cap and let cool on counter until it reaches 90 - 100°F, about 2 hours. *(This step can be sped up by immersing jar in cold tap water if there are food safety concerns.)*
-4. Add kefir grains to jar and stir gently.
+3. Cover jar loosely with plastic cap and let cool on counter until it reaches 90 - 100°F, about 2 hours. *(This step can be sped up by immersing jar in cold tap water if you have food safety concerns.)*
+4. Add kefir grains to jar and stir gently. Cover jar loosely with plastic cap.
 5. Let ferment on counter at an ambient temperature of 65 - 70°F for 18 hours. During the last 6 hours, stir gently two or three times for a more even fermentation.
 6. When the kefir has thickened and tastes pleasantly sour, transfer jar to refrigerator.
 7. IF kefir has chilled at least 24 hours, THEN strain grains AND GOTO STEP 1.
 
 ## ✏️ notes
 * This is what works in my kitchen. Cannot be held responsible if you die in your kitchen. Caveat emptor.
-* If kefir is left undisturbed in the fridge longer than a week or so, a benign pellicle may form. If it white, then it can be scraped from the surface, and the process can continue.
+* If kefir is left undisturbed in the fridge longer than a week or so, a benign pellicle may form. If it is white, then it can be scraped from the surface, and the process can continue.
 * Ideally, a new batch should be started on a weekly basis, but the grains can easily survive in the refrigerator for 2 - 3 weeks between batches. *(If it has been more than 2 weeks since the last batch, the grains may take a batch or two to fully wake up.)*
 
 ## 🔗 sources

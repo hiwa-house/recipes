@@ -7,6 +7,12 @@
 
 ## 📋 ingredients
 
+- [ ] **454	grams**	cod fillet, cut into 30-60 gram pieces
+- [ ] Kosher salt
+- [ ] Lemon zest
+
+---
+
 - [ ] **60 grams**	all-purpose flour *(for dusting)*
 
 ---
@@ -23,17 +29,18 @@
 ---
 
 - [ ] **840	grams**	peanut oil *(4 cups)*
-- [ ] **454	grams**	cod fillet, cut into 30-60 gram pieces
 
 ## 🔪 steps
-1. Whisk together batter flour, cornstarch, baking powder, kosher salt, ground black pepper, and paprika in a medium bowl to combine. Mix together beer and vodka separately, then slowly add the beer mixture to the flour mixture, whisking just until the batter has the texture of thick paint. Rest batter for 10 mins.
-2. Heat the oil to 350°F in a large wok over medium-high heat. Add the dusting flour to a medium bowl. Toss the fish pieces in the flour until evenly coated.
-3. When the oil and batter are ready, transfer fish to batter and turn to coat. Working one piece at a time, pick up the fish and allow excess batter to drip back into the bowl. Carefully lower it into the hot oil. Repeat with remaining fish.
-4. Cook, shaking the pan gently and agitating the oil with a wire mesh spider or tongs constantly, turning the fish until it is golden brown and crisp on all sides, about 8 minutes total.
-5. Transfer to a paper towel-lined plate and season immediately with salt. Serve on a bed of shredded cabbage with tartar sauce and chips.
+1. Dry fish with paper towel and place on baking sheet. Season generously with salt and lemon zest. Transfer to refrigerator and rest uncovered for 2 hours.
+2. Whisk together batter flour, cornstarch, baking powder, kosher salt, ground black pepper, and paprika in a medium bowl to combine. Mix together beer and vodka separately, then slowly add the beer mixture to the flour mixture, whisking just until the batter has the texture of thin paint. Rest batter while the oil heats, approximately 5-10 minutes.
+3. Heat the oil to 350°F in a large wok over medium-high heat. Add the dusting flour to a medium bowl. Toss the fish pieces in the flour until evenly coated.
+4. When the oil and batter are ready, transfer fish to batter and turn to coat. Working one piece at a time, pick up the fish and allow excess batter to drip back into the bowl. Carefully lower it into the hot oil. Repeat with remaining fish.
+5. Cook, shaking the pan gently and agitating the oil with a wire mesh spider or tongs constantly, turning the fish until it is golden brown and crisp on all sides, about 6-8 minutes total.
+6. Transfer to a paper towel-lined plate and season immediately with salt. Serve on a bed of shredded cabbage with tartar sauce and chips.
 
 ## ✏️ notes
-* 
+* Replace cornstarch with rice flour?
+* Eliminate dusting flour?
 
 ## 🔗 sources
 https://ethanchlebowski.com/cooking-techniques-recipes/beer-battered-fish-sandwich  

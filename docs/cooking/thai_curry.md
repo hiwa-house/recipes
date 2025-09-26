@@ -11,25 +11,22 @@
 - [ ] **2	medium**	cloves garlic
 - [ ] **1/2	inch**	piece fresh ginger, peeled and sliced 1/4-inch thick
 - [ ] **21	grams**	vegetable oil *(1-1/2 tbsp)*
-- [ ] **30	grams**	masaman curry paste *(1 tbsp)*
-- [ ] **300	grams**	coconut milk *(3/4 can)*
+- [ ] **45	grams**	masaman curry paste *(1-1/2 tbsp)*
+- [ ] **266	grams**	coconut milk *(1/3 can)*
+- [ ] Kosher salt
+- [ ] **1000	grams**	bone-in, skin-on chicken drumsticks and thighs
 - [ ] **454	grams**	kabocha squash, cubed and lightly-peeled *(3 c)*
 - [ ] **170	grams**	eggplant, cubed *(2 c)*
-- [ ] **1000	grams**	bone-in, skin-on chicken drumsticks and thighs
-- [ ] Kosher salt
 - [ ] **10	grams**	fish sauce *(2 tsp)*
 - [ ] **85	grams**	baby spinach *(4 c, packed)*
 - [ ] **1/2	cup**	loosely-packed cilantro leaves and tender stems *(from about 5 sprigs)*
 - [ ] **1/2	cup**	loosely-packed Thai basil leaves *(from about 5 sprigs)*
-- [ ] Freshly-ground black pepper
-- [ ] Cooked rice, barley, or other grain, for serving
-- [ ] Lime wedges, for serving
 
 ## 🔪 steps
 1. Grind coriander and cumin in mortar and pestle. Add garlic and ginger to mortar and roughly mash into a paste with pestle.
 2. Heat oil in a medium pressure cooker over medium-low heat until shimmering. Add paste from mortar and cook, stirring, until aromatic, about 1 minute. Add curry paste and cook, stirring, until paste has darkened slightly, about 3 minutes.
 3. Stir in coconut milk, bring to a simmer, and cook for 1 minute. Season chicken pieces with salt and add to pressure cooker. Add the squash and eggplant and season with salt. Increase heat to seal pressure cooker and cook on high pressure for 10 minutes.
-4. Allow pressure to naturally release, remove lid, and stir in fish sauce, spinach, and ¼ cup each of the cilantro and Thai basil. Season with salt and pepper. Ladle the stew onto serving bowls filled with rice and scatter remaining cilantro and basil on top. Serve with lime wedges.
+4. Allow pressure to naturally release, remove lid, and stir in fish sauce, spinach, cilantro, and Thai basil. Serve in a bowl with rice.
 
 ## ✏️ notes
 * Masaman is generally the mildest curry. Other Thai curry pastes can be substituted for different flavors or levels of spice.
