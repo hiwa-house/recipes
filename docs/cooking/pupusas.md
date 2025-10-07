@@ -25,5 +25,5 @@
 * To make ahead: At end of step 4, wrap baking sheet in plastic wrap and freeze until pupusas are solid. Wrap pupusas individually in plastic, then transfer pupusas to zipper-lock bag. Freeze for up to 1 month. Cook directly from frozen, increasing cooking time by 2 minutes per side.
 
 ## 🔗 sources
-https://bonappetit.com/recipe/pupusas  
-https://wskg.org/americas-test-kitchen-pupusas-with-curtido-ep-2225/  
+https://cooking.nytimes.com/recipes/1024428-pupusas  
+https://www.americastestkitchen.com/recipes/11732-pupusas  

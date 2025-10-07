@@ -23,13 +23,13 @@
 
 - [ ] **1/4 teaspoon**	freshly grated nutmeg
 - [ ] **SUBSTITUTE**	half of granulated sugar for brown sugar
-- [ ] **-50	grams**	egg *(1 large)*
-- [ ] **90	grams**	canned pumpkin, squeezed in paper towels to reduce moisture *(1/2 c)*
+- [ ] **REMOVE**	eggs
+- [ ] **160	grams**	canned pumpkin, squeezed in paper towels to reduce moisture *(3/4 c)*
 - [ ] **5	grams**	vanilla extract *(1 tsp)*
 - [ ] **1/2 teaspoon**	ground allspice
 
 ## 🔪 steps
-1. Adjust oven rack to middle position and preheat to 400°F. Line baking sheets with parchment paper; set aside.
+1. Adjust oven rack to middle position and preheat to 375°F. Line baking sheets with parchment paper; set aside.
 2. Whisk together flour, cream of tartar, baking soda, and salt; set aside. *If making the pumpkin variation, add the nutmeg at this step.*
 3. In the bowl of a stand mixer fitted with a paddle attachment, combine butter and sugar. Mix at low speed to combine, then increase to medium and beat until soft, fluffy, and pale, about 5 minutes. Halfway through, pausing to scrape the bowl and beater with a flexible spatula, and then resume mixing on medium speed. Add eggs and continue beating until smooth. *If making the pumpkin variation, swap 1 egg for the canned pumpkin and add the vanilla extract.* Reduce speed to low, add dry ingredients, and mix to form a stiff dough.
 4. Using a #40 disher *(1/2 tbsp)*, divide dough into portions and roll into a ball *(If the dough is too soft, refrigerate for 1 hour before scooping)*. If you like, these can be transferred to a zipper-lock bag and refrigerated for up to 1 week, or frozen for up to 3 months; soften to about 68°F before baking.
