@@ -8,8 +8,7 @@
 ## 📋 ingredients
 - [ ] **8	grams**	kosher salt *(1 tbsp)*
 - [ ] **3	grams**	baking soda *(1/2 tsp)*
-- [ ] **1	tablespoon**	Mexican oregano
-- [ ] **227	grams**	dried pinto beans *(1/2 c)*
+- [ ] **230	grams**	dried pinto beans *(1/2 c)*
 - [ ] **142	grams**	white onion, minced and separated in half *(1 medium)*
 - [ ] **2	cloves**	garlic, crushed
 - [ ] **1	tablespoon**	Mexican oregano

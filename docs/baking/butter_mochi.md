@@ -41,6 +41,7 @@
 5. Cut the mochi into small pieces about 2X2 inches square, and use a small spatula to remove them from the pan. Place each piece in a small muffin paper or on a piece of parchment or waxed paper.
 
 ## ✏️ notes
+* https://www.pbshawaii.org/butter-mochi/
 * Test bake at 375F for 45 minutes?
 * Butter mochi can be stored in an airtight container at room temperature for up to 4 days.
 * You can also freeze them; put them in a 325° F oven for about 20 minutes to revive and get a little chewy and caramelized on top.
