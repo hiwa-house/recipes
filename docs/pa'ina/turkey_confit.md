@@ -1,6 +1,5 @@
 # Turkey Confit
 <img src="https://d3awvtnmmsvyot.cloudfront.net/api/file/9wpKlt3T2SMRNN6gmidQ/convert" alt="turkey" width="320"/>
-#thanksgiving  
 
 ## ℹ️ info
 * About 72 hours  

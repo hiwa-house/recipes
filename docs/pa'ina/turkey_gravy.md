@@ -8,7 +8,7 @@
 ## 📋 ingredients
 - [ ] Reserved turkey trimmings, cut into 1-inch pieces
 - [ ] **480	grams**	water
-- [ ] **16	grams**	chicken bouillon
+- [ ] **12	grams**	chicken bouillon
 - [ ] **250	grams**	onion, peeled and halved
 - [ ] **140	grams**	carrot, chopped coarse
 - [ ] **115	grams**	rib celery, chopped coarse
@@ -28,6 +28,7 @@
 4. Melt butter in medium saucepan over medium heat. Add flour and increase heat to medium-high. Cook, stirring constantly, until mixture is deep golden brown, 5 to 8 minutes. Reduce heat to low and slowly whisk in strained stock. Increase heat to medium-high and bring to simmer. Simmer until thickened, about 5 minutes. Season with salt and pepper to taste, and serve.
 
 ## ✏️ notes
+* Stock portion makes ~2250 ml total and leaves ~1320 ml extra *(Fills 2x 24 oz canning jars)*.
 * You can store gravy in an airtight container in the refrigerator for up to five days or frozen for up to 2 weeks. Reheat, either in the microwave (at 70% power and stirring every one minute) or in a saucepan over low heat (whisking often).
 * Lumps can be strained or blended out, an overly thick gravy can be thinned with a little stock or water, and an overly thin one can be thickened by simmering.
 

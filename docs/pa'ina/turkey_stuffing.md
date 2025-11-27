@@ -7,40 +7,41 @@
 * 4-6 servings
 
 ## 📋 ingredients
-- [ ] **250	grams**	soft Italian or French bread, cut into 3/4-inch dice *(9 oz)*
-- [ ] **250	grams**	cornbread, cut into 3/4-inch dice *(9 oz)*
+- [ ] **285	grams**	soft French bread, cut into 3/4-inch pieces *(10 oz, 1/2 loaf)*
+- [ ] **285	grams**	cornbread, cut into 3/4-inch pieces *(10 oz, 1/2 box batch)*
 
-- [ ] **680	grams**	bulk pork sausage, broken into 1/2-inch pieces *(1-1/2 lbs)*
 - [ ] **115	grams**	unsalted butter *(8 tbsp)*
-
-- [ ] **1/4	cup**	minced fresh sage leaves
-- [ ] **1	tablespoon**	fennel seeds
-- [ ] **1	teaspoon**	poultry seasoning
+- [ ] **454	grams**	bulk pork sausage *(1 lbs)*
 
 - [ ] **170	grams**	onion, finely chopped *(1 medium)*
-- [ ] **170	grams**	celery, finely chopped *(3 ribs)*
+- [ ] **80	grams**	celery, finely chopped *(2 ribs)*
 - [ ] **2	cloves**	garlic, minced
 
-- [ ] Kosher salt and freshly ground black pepper
-
-- [ ] **350	grams**	low-sodium chicken or turkey stock, divided *(1-1/2 c)*
-- [ ] **480	grams**	milk *(2 c)*
+- [ ] **1/4	cup**	minced fresh sage leaves
+- [ ] **2	grams**	poultry seasoning *(1 tbsp)*
+- [ ] **3	grams**	kosher salt *(1 tsp)*
+- [ ] **2	grams**	pepper *(3/4 tsp)*
 
 - [ ] **2	large**	eggs
-- [ ] **2	tablespoons**	minced fresh parsley leaves, divided
+- [ ] **480	grams**	milk *(2 c)*
+- [ ] **1/4	cup**	minced fresh parsley leaves, divided
+- [ ] **350	grams**	low-sodium chicken or turkey stock *(1-1/2 c)*
 
 ## 🔪 steps
-1. Adjust oven rack to lower-middle position. Preheat oven to 275°F. Spread bread evenly over rimmed baking sheet. Bake until completely dried, about 50 minutes total, rotating tray and stirring bread cubes several times during baking. Remove from oven and allow to cool. Increase oven temperature to 375°F.
-2. In a large Dutch oven, melt butter over medium-high heat until foaming subsides, about 2 minutes. Add sausage and break up into small pieces. Cook, stirring frequently, until only a few bits of pink remain, about 8 minutes. Add onion, celery, garlic, and sage and cook, stirring frequently, until vegetables are softened, about 10 minutes. Stir in poultry seasoning, fennel, and up to 1 teaspoon each of salt and pepper to taste. Cook until fragrant, about 30 seconds. Remove from heat, add chicken stock, and scrape up any browned bits.
-3. Whisk milk, eggs, and 1 tablespoon parsley in a medium bowl until homogeneous. Stirring constantly with a wooden spoon, slowly pour egg mixture into herb and vegetable mixture. Add bread cubes and fold gently until evenly mixed. Let mixture stand for at least 15 minutes before baking, occasionally pressing bread to soak up custard.
-4. To cook, cover dutch oven with lid, and bake for 45 minutes. Remove lid and continue baking until golden brown and crisp on top, 30 minutes longer. Remove from oven, let cool for 5 minutes, sprinkle with remaining parsley, and serve. 
+1. Adjust oven rack to lower-middle position and preheat convection oven to 250°F. Arrange bread evenly on rimmed baking sheet. Bake for 20 minutes, then stir bread to redistribute. Return sheet to oven and continue to bake until bread is light golden brown, 15 to 20 minutes longer. Let cool completely, then transfer to large bowl. Increase oven temperature to 350°F.
+
+2. In a large Dutch oven, melt butter over medium heat until foaming subsides, about 2 minutes. Add sausage, onions, and celery to pot, increase heat to medium-high, and cook, breaking up meat, until vegetables are soft and beginning to brown and sausage is cooked through, about 10 minutes. Stir in sage, poultry seasoning, salt, and pepper and cook until fragrant, about 30 seconds. Add vegetable mixture to bowl with bread.
+
+3. Whisk milk, eggs, and 1 tablespoon parsley in a large bowl. Add stock and whisk again until homogeneous. Add custard to bread mixture and fold to combine. Let sit for 10 minutes. Fold again and let sit until broth is fully absorbed. Transfer to 13 by 9-inch baking dish and distribute evenly but do not pack down. 
+
+4. To cook, cover dish with foil and bake for 30 minutes. Remove foil, increase oven temperature to 375°F, and continue baking until golden brown and crisp on top, 30 minutes longer. Remove from oven, let cool for 15 minutes, sprinkle with remaining parsley, and serve.
 
 ## ✏️ notes
-* The stuffing can be prepared through step 3, placed in a buttered 8x8 baking dish, and covered a day in advance. Remove from the refrigerator and allow the stuffing to come to room temperature for at least 30 minutes before baking the next day.
+* The stuffing can be prepared through step 2 a day in advance. Cooled bread can be stored in a zipper-lock bag, and sausage mixture can be refrigerated. Remove mixture from refrigerator and allow to come to room temperature for at least 30 minutes before baking the next day.
 
 ## 🔗 sources
+https://americastestkitchen.com/recipes/10095-simple-holiday-stuffing-with-sausage  
 https://seriouseats.com/classic-sage-and-sausage-stuffing-or-dressing-recipe  
-https://epicurious.com/recipes/food/views/cornbread-sausage-stuffing  
-https://americastestkitchen.com/recipes/6787-back-to-basics-bread-stuffing  
 https://cooking.nytimes.com/recipes/1023649-thanksgiving-stuffing  
+https://epicurious.com/recipes/food/views/cornbread-sausage-stuffing  
 https://americastestkitchen.com/recipes/5874-classic-bread-pudding  
