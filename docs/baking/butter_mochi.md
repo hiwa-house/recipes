@@ -34,10 +34,10 @@
 - [ ] **1/8 teaspoon**	ground cloves
 
 ## 🔪 steps
-1. Preheat the oven to 350°F and place a rack in the center of the oven. Generously butter a 9X13 inch baking pan. Set aside.
+1. Preheat the oven to 325°F and place a rack in the center of the oven. Generously butter a 9X13 inch baking pan. Set aside.
 2. In the bowl of a stand mixer, combine the mochiko, coconut milk, evaporated milk, sugar, melted butter, eggs, baking powder, salt and vanilla extract. If making one of the flavor variations, also add those ingredients now.
 3. With the whisk attachment, whip ingredients together until smooth. Let the batter sit for about 15 minutes at room temperature for the rice flour to full absorb the liquid.
-4. Pour into the prepared pan and bake for 55 minutes, rotating the pan midway through the baking time, until the top of the cake is golden brown and the mochi feels firm when you press it in the middle, or an internal temperature of 200°F. Remove from the oven and let cool in the pan on a wire rack.
+4. Pour into the prepared pan and bake for 45 minutes, rotating the pan midway through the baking time, until the top of the cake is golden brown and the mochi feels firm when you press it in the middle, or an internal temperature of 200°F. Remove from the oven and let cool in the pan on a wire rack.
 5. Cut the mochi into small pieces about 2X2 inches square, and use a small spatula to remove them from the pan. Place each piece in a small muffin paper or on a piece of parchment or waxed paper.
 
 ## ✏️ notes
@@ -49,8 +49,8 @@
 ## 🔗 sources
 https://hawaiianelectric.com/recipes/find-a-recipe/butter-mochi  
 https://leaandjay.wordpress.com/2022/03/07/butter-mochi/  
-https://www.mochimommy.com/hawaiian-butter-mochi/ 
-https://www.mochimommy.com/ube-butter-mochi/   
+https://www.mochimommy.com/hawaiian-butter-mochi/  
+https://www.mochimommy.com/ube-butter-mochi/  
 https://www.mochimommy.com/pumpkin-mochi-recipe/  
 https://www.mochimommy.com/black-sesame-butter-mochi/  
 https://www.mochimommy.com/chocolate-butter-mochi/  

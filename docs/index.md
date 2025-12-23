@@ -1,11 +1,11 @@
-This is the HiWa house's virtual cookbook. Unless a recipe is in the experimental section, it has been tweaked the original source and tested many times in our kitchen for deliciousness. Hopefully, in writing this down, it helps someone, somewhere make something delicious as well.  
+This is the HiWa house's virtual cookbook. Recipes in the experimental section are still works-in-progress, but other sections are recipes that have been tweaked from the original source and thoroughly tested in our kitchen for peak deliciousness. Hopefully, in writing this down, it helps someone, somewhere make something delicious as well.  
 
 ## 🍳 The Regular Rotation
 Menu ideas for the week.
 
 {{ read_csv("menu.csv") }}
 
-## 💚 Healthy Eating Reminders
+## 💚 Healthy Eating Notes and Reminders
 * 🍱 **Ichiju Sansai** *(soup, main, 2 sides, pickle, grain)*
 	- [ ] Main
 	- [ ] Soup
@@ -32,8 +32,8 @@ Menu ideas for the week.
 		* rice
 		* bread
 		* oats
-* **Breakfast Ideas:** Sandwich, savory oatmeal, lentils, eggs
-* **Lunch:** Kefir, fiber, 2x fruit
+* **Breakfast Ideas:** Sandwich, savory oatmeal, lentils, eggs, salad
+* **Lunch:** Kefir, 2x fruit
 * **Snack:** Fruit, nuts, pickles, cheese
 * Nutrient Goals
 	* 65g protein/day
