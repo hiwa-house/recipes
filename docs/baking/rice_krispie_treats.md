@@ -8,7 +8,7 @@
 ## 📋 ingredients
 - [ ] **85 grams** European-style salted butter *(6 tbsp)*
 - [ ] **454 grams** Kraft Jet-Puffed marshmallows
-- [ ] **190 grams** Kellogg's Rice Krispies cereal *(7 c)*
+- [ ] **230 grams** Kellogg's Rice Krispies cereal *(8 c)*
 
 ## 🔪 steps
 1. Grease a 9x13-inch pan with butter or spray with baking spray.

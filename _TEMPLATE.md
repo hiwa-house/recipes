@@ -1,12 +1,12 @@
-# Title  
+# Title
 <img src="URL" alt="DESCRIPTION" width="320"/>  
 Supplemental description.  
 
-## ℹ️ info  
+## ℹ️ info
 * About XX minutes  
 * XX servings  
 
-## 📋 ingredients  
+## 📋 ingredients
 - [ ] **XX	grams**	XXX *()*
 
 **NEW SECTION**  
@@ -16,11 +16,11 @@ Supplemental description.
 - [ ] ***TOPPING IDEAS:***  
 	* XXX
 
-## 🔪 steps  
+## 🔪 steps
 1. 
 
-## ✏️ notes  
+## ✏️ notes
 * 
 
-## 🔗 sources  
+## 🔗 sources
 URL [in new tab?]  
