@@ -22,12 +22,12 @@
 - [ ] **170	grams**	tomatillos *(3 small)*
 - [ ] **170	grams**	ripe plum tomatoes *(2 medium)*
 - [ ] **4	medium**	garlic cloves
-- [ ] **115	grams**	white or yellow onion, finely chopped *(1/2 medium)*
-- [ ] **1	tablespoons**	smoked paprika
-- [ ] **2	teaspoons**	Mexican dried oregano
+- [ ] **120	grams**	white or yellow onion, finely chopped *(1/2 medium)*
+- [ ] **1	tablespoon**	smoked paprika
+- [ ] **1	tablespoon**	Mexican dried oregano
 - [ ] **2	whole**	bay leaves
-- [ ] **30	grams**	cider vinegar *(2 tbsp)*
-- [ ] **240	grams**	water
+- [ ] **45	grams**	cider vinegar *(3 tbsp)*
+- [ ] **210	grams**	water
 - [ ] **14	grams**	chicken bouillon
 - [ ] **3	grams**	unflavored gelatin ***(Optional)***
 - [ ] **10	grams**	Asian fish sauce *(2 tsp)*
