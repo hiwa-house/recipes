@@ -1,5 +1,5 @@
 # Zippy's Chili
-<img src="https://www.zippys.com/wp-content/uploads/2019/02/food-chili-Chili-Frank-02.jpg" alt="winnah" width="320"/>
+<img src="https://s3-media0.fl.yelpcdn.com/bphoto/8nzC7v9zJmP-_LNdN3GOHw/o.jpg" alt="winnah" width="320"/>
 Clone attempt v1.3
 
 ## ℹ️ info
