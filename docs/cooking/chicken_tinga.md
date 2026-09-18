@@ -50,7 +50,10 @@
 3. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own.
 
 ## ✏️ notes
-* 
+* ~1.5x recipe (minus chix) to fill 24oz jar
+* 24oz jar = 750g chix breast
+* 16oz jar = 1x ingredients?
+
 
 ## 🔗 sources
 https://seriouseats.com/chicken-tinga-spicy-mexican-shredded-chicken-recipe  

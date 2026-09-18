@@ -37,6 +37,7 @@ markdown_extensions:
 
 plugins:
     - search
-    - awesome-pages
+    - awesome-nav:
+        filename: .pages
     - table-reader:
         data_path: "docs"
