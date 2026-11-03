@@ -1,6 +1,6 @@
 # Zippy's Chili
 <img src="https://s3-media0.fl.yelpcdn.com/bphoto/8nzC7v9zJmP-_LNdN3GOHw/o.jpg" alt="winnah" width="320"/>
-Clone attempt v1.3
+<br>Clone attempt v1.3
 
 ## ℹ️ info
 * Pressure Cooker: about 60 minutes  
@@ -20,15 +20,15 @@ Clone attempt v1.3
 - [ ] **12 grams** chili powder *(2 tbsp)*
 - [ ] **1/4 teaspoon** onion powder
 - [ ] **1/4 teaspoon** garlic powder
-- [ ] **2	whole****	bay leaf
+- [ ] **2	whole**	bay leaf
 - [ ] **33 grams** tomato paste *(2 tbsp)*
-- [ ] **298 grams** cream of mushroom soup *(1 can)*
 - [ ] **425 grams** crushed tomatoes *(1 can)*
+- [ ] **180 grams** reserved bean liquid *(1 can OR double amount if cooking in oven)*
+- [ ] **298 grams** cream of mushroom soup *(1 can)*
 - [ ] **8	grams** chicken bouillon *(1 tsp)*
-- [ ] **180 grams** reserved bean liquid
 - [ ] **880 grams** red kidney beans, drained (or 130 g cooked dry beans, see note) *(2 cans)*
 - [ ] **4	grams** granulated sugar *(1 tsp)*
-- [ ] **3	grams** Asian fish sauce *(1/2 tsp)*
+- [ ] **5	grams** Asian fish sauce *(1/2 tsp)*
 - [ ] **10	grams** cider vinegar *(2 tsp)*
 
 ## 🔪 steps

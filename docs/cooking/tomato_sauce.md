@@ -6,19 +6,19 @@
 * Makes 1 3/4 quarts  
 
 ## 📋 ingredients
-- [ ] **2	cans**	crushed peeled tomatoes *(28 oz, x2)*
-- [ ] **30	grams**	extra-virgin olive oil
-- [ ] **30	grams**	unsalted butter
-- [ ] **4	cloves**	garlic, minced
-- [ ] **33	grams**	tomato paste *(2 tbsp)*
+- [ ] **3	cans**	crushed peeled tomatoes *(28 oz, x3)*
+- [ ] **45	grams**	extra-virgin olive oil
+- [ ] **45	grams**	unsalted butter
+- [ ] **6	cloves**	garlic, minced
+- [ ] **49	grams**	tomato paste *(3 tbsp)*
 - [ ] **1/8	teaspoon**	red pepper flakes
-- [ ] **1/2	tablespoon**	dried oregano
-- [ ] **130	grams**	carrot, cut into large chunks *(1 large)*
-- [ ] **140	grams**	onion, roughly chopped *(1 medium)*
-- [ ] **1 stem**	fresh basil
-- [ ] **1/2	teaspoon**	Kosher salt
+- [ ] **3/4	tablespoon**	dried oregano
+- [ ] **200	grams**	carrot, cut into large chunks *(2 large)*
+- [ ] **210	grams**	onion, roughly chopped *(1 large)*
+- [ ] **2 stem**	fresh basil
+- [ ] **3/4	teaspoon**	Kosher salt
 - [ ] Freshly ground pepper
-- [ ] **10	grams**	Asian fish sauce
+- [ ] **15	grams**	Asian fish sauce
 - [ ] **1/4	cup**	minced fresh parsley or basil leaves
 
 ## 🔪 steps
@@ -31,7 +31,7 @@
 ## ✏️ notes
 * *Kroger*-brand crushed peeled tomatoes in tomato puree is preferred.
 * Reserve pint jar(s) for 1 batch of tomato soup (400g) and/or 2 pizzas (350g).
-* Combine 190 grams of dried pasta with 20 fluid ounces of sauce for 1 batch of pasta.
+* Combine 230 grams of dried pasta with 24 fluid ounces of sauce for 1 batch of pasta.
 * Sauce can be frozen flat in Ziploc bags for up to 6 months.
 
 ## 🔗 sources
